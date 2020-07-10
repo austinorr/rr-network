@@ -1,0 +1,253 @@
+Geography,Year,Category 1,Category 2,Category 3,Data field,Units,Value
+Alameda,1996,Licensed Child Care Supply,Licensed facilities,,Total facilities,count,128
+Alameda,1996,Licensed Child Care Supply,Licensed facilities,,Child care centers,count,452
+Alameda,1996,Licensed Child Care Supply,Licensed facilities,,Family child care homes,count,102
+Alameda,1996,Licensed Child Care Supply,Licensed spaces,,Total spaces,count,330
+Alameda,1996,Licensed Child Care Supply,Licensed spaces,Center spaces,Infant (0-23 months),count,415
+Alameda,1996,Licensed Child Care Supply,Licensed spaces,Center spaces,Preschool (2-5 years),count,271
+Alameda,1996,Licensed Child Care Supply,Licensed spaces,Center spaces,Schoolage (6+ years),count,365
+Alameda,1996,Licensed Child Care Supply,Licensed spaces,,Family child care home spaces,count,490
+Alameda,1996,Licensed Child Care Supply,Child Care Food Program,Percent of child care programs participating in the Child Care Food Program,Total facilities,percent,0.791141491
+Alameda,1996,Licensed Child Care Supply,Child Care Food Program,Percent of child care programs participating in the Child Care Food Program,Centers,percent,0.424281684
+Alameda,1996,Licensed Child Care Supply,Child Care Food Program,Percent of child care programs participating in the Child Care Food Program,Family child care homes,percent,0.489652513
+Alameda,1996,Licensed Child Care Supply,Public contracts,,Child care centers with one or more federal/state/local contracts,percent,0.558990619
+Alameda,1996,Licensed Child Care Supply,Schedule,Percent offering full-time and part-time spaces,Centers,percent,0.473257337
+Alameda,1996,Licensed Child Care Supply,Schedule,Percent offering full-time and part-time spaces,Family child care homes,percent,0.683080041
+Alameda,1996,Licensed Child Care Supply,Schedule,Percent offering only full-time spaces,Centers,percent,0.765451728
+Alameda,1996,Licensed Child Care Supply,Schedule,Percent offering only full-time spaces,Family child care homes,percent,0.473736289
+Alameda,1996,Licensed Child Care Supply,Schedule,Percent offering only part-time spaces,Centers,percent,0.810882302
+Alameda,1996,Licensed Child Care Supply,Schedule,Percent offering only part-time spaces,Family child care homes,percent,0.116048541
+Alameda,1996,Licensed Child Care Supply,Schedule,"Percent offering evening, weekend, or overnight care",Centers,percent,0.954190001
+Alameda,1996,Licensed Child Care Supply,Schedule,"Percent offering evening, weekend, or overnight care",Family child care homes,percent,0.323305398
+Alameda,1996,Cost of Care,Annual full-time cost of care,Infant care (0-23 months),Center,usd,104.7603427
+Alameda,1996,Cost of Care,Annual full-time cost of care,Infant care (0-23 months),Family child care home,usd,534.684517
+Alameda,1996,Cost of Care,Annual full-time cost of care,Preschool care (2-5 years),Center,usd,214.5122536
+Alameda,1996,Cost of Care,Annual full-time cost of care,Preschool care (2-5 years),Family child care home,usd,433.3821729
+Alameda,1996,Child Care Request Data,Requests by age,,Under 2 years,percent,0.710411293
+Alameda,1996,Child Care Request Data,Requests by age,,2-5 years,percent,0.166280922
+Alameda,1996,Child Care Request Data,Requests by age,,6 years and older,percent,0.193168788
+Alameda,1996,Child Care Request Data,Requests for full-time care,,Under 2 years,percent,0.854645765
+Alameda,1996,Child Care Request Data,Requests for full-time care,,2 years,percent,0.019066463
+Alameda,1996,Child Care Request Data,Requests for full-time care,,3 years,percent,0.869715445
+Alameda,1996,Child Care Request Data,Requests for full-time care,,4 years,percent,0.092229394
+Alameda,1996,Child Care Request Data,Requests for full-time care,,5 years,percent,0.36451681
+Alameda,1996,Child Care Request Data,Requests for nontraditional hours,,Requests for nontraditional hours,percent,0.980917606
+Alameda,1996,People,Total number of residents,,Total number of residents,count,138
+Alameda,1996,People,Total number of residents,Number of children 0-12,Under 2 years,count,181
+Alameda,1996,People,Total number of residents,Number of children 0-12,2 years,count,355
+Alameda,1996,People,Total number of residents,Number of children 0-12,3 years,count,173
+Alameda,1996,People,Total number of residents,Number of children 0-12,4 years,count,384
+Alameda,1996,People,Total number of residents,Number of children 0-12,5 years,count,891
+Alameda,1996,People,Total number of residents,Number of children 0-12,6-10 years,count,970
+Alameda,1996,People,Total number of residents,Number of children 0-12,11-12 years,count,50
+Alameda,1996,People,Language spoken at home,,English only,percent,0.437781671
+Alameda,1996,People,Language spoken at home,,Spanish,percent,0.947470061
+Alameda,1996,People,Language spoken at home,,Asian/Pacific Island language,percent,0.826437657
+Alameda,1996,People,Language spoken at home,,Another language,percent,0.599909147
+Alameda,1996,Labor Force,Availaiblity of child care for working families,,Children for whom a licensed space is available,percent,0.235218795
+Alameda,1996,Labor Force,Availaiblity of child care for working families,,Children for whom a licensed space is not available,percent,0.547535952
+Alameda,1996,Income & Poverty,Number of people living in poverty,,Number of people living in poverty,count,339
+Alameda,1996,Income & Poverty,Children 0-5 living in poverty,,Children 0-5 living in poverty,count,98
+Alameda,1996,Income & Poverty,Percent families living in poverty,,Percent families living in poverty,percent,0.803167605
+Alameda,1996,Income & Poverty,Children in subsidized care,,Under 2 years,count,179
+Alameda,1996,Income & Poverty,Children in subsidized care,,2-5 years,count,763
+Alameda,1996,Income & Poverty,Children in subsidized care,,6 years and older,count,541
+Alameda,1996,Income & Poverty,Children in subsidized care,,Alternative Payment,count,173
+Alameda,1996,Income & Poverty,Children in subsidized care,,California State Preschool,count,580
+Alameda,1996,Income & Poverty,Children in subsidized care,,CalWORKs Stage 1,count,954
+Alameda,1996,Income & Poverty,Children in subsidized care,,CalWORKs Stage 2,count,746
+Alameda,1996,Income & Poverty,Children in subsidized care,,CalWORKs Stage 3,count,291
+Alameda,1996,Income & Poverty,Children in subsidized care,,Family child care home,count,137
+Alameda,1996,Income & Poverty,Children in subsidized care,,General Child Care,count,602
+Alameda,1996,Income & Poverty,Children in subsidized care,,General Migrant Care,count,225
+Alameda,1996,Income & Poverty,Children in subsidized care,,Severely handicapped,count,339
+Alameda,1996,Income & Poverty,Median family income,,Median family income,usd,353.0160735
+Alameda,1998,Licensed Child Care Supply,Licensed facilities,,Total facilities,count,855
+Alameda,1998,Licensed Child Care Supply,Licensed facilities,,Child care centers,count,686
+Alameda,1998,Licensed Child Care Supply,Licensed facilities,,Family child care homes,count,452
+Alameda,1998,Licensed Child Care Supply,Licensed spaces,,Total spaces,count,67
+Alameda,1998,Licensed Child Care Supply,Licensed spaces,Center spaces,Infant (0-23 months),count,447
+Alameda,1998,Licensed Child Care Supply,Licensed spaces,Center spaces,Preschool (2-5 years),count,770
+Alameda,1998,Licensed Child Care Supply,Licensed spaces,Center spaces,Schoolage (6+ years),count,667
+Alameda,1998,Licensed Child Care Supply,Licensed spaces,,Family child care home spaces,count,324
+Alameda,1998,Licensed Child Care Supply,Child Care Food Program,Percent of child care programs participating in the Child Care Food Program,Total facilities,percent,0.064744195
+Alameda,1998,Licensed Child Care Supply,Child Care Food Program,Percent of child care programs participating in the Child Care Food Program,Centers,percent,0.997563713
+Alameda,1998,Licensed Child Care Supply,Child Care Food Program,Percent of child care programs participating in the Child Care Food Program,Family child care homes,percent,0.806679717
+Alameda,1998,Licensed Child Care Supply,Public contracts,,Child care centers with one or more federal/state/local contracts,percent,0.318026338
+Alameda,1998,Licensed Child Care Supply,Schedule,Percent offering full-time and part-time spaces,Centers,percent,0.128759403
+Alameda,1998,Licensed Child Care Supply,Schedule,Percent offering full-time and part-time spaces,Family child care homes,percent,0.303402806
+Alameda,1998,Licensed Child Care Supply,Schedule,Percent offering only full-time spaces,Centers,percent,0.341078225
+Alameda,1998,Licensed Child Care Supply,Schedule,Percent offering only full-time spaces,Family child care homes,percent,0.987506841
+Alameda,1998,Licensed Child Care Supply,Schedule,Percent offering only part-time spaces,Centers,percent,0.638663336
+Alameda,1998,Licensed Child Care Supply,Schedule,Percent offering only part-time spaces,Family child care homes,percent,0.226371718
+Alameda,1998,Licensed Child Care Supply,Schedule,"Percent offering evening, weekend, or overnight care",Centers,percent,0.563101399
+Alameda,1998,Licensed Child Care Supply,Schedule,"Percent offering evening, weekend, or overnight care",Family child care homes,percent,0.299047478
+Alameda,1998,Cost of Care,Annual full-time cost of care,Infant care (0-23 months),Center,usd,901.2209673
+Alameda,1998,Cost of Care,Annual full-time cost of care,Infant care (0-23 months),Family child care home,usd,578.6925099
+Alameda,1998,Cost of Care,Annual full-time cost of care,Preschool care (2-5 years),Center,usd,146.728518
+Alameda,1998,Cost of Care,Annual full-time cost of care,Preschool care (2-5 years),Family child care home,usd,962.6024248
+Alameda,1998,Child Care Request Data,Requests by age,,Under 2 years,percent,0.549547756
+Alameda,1998,Child Care Request Data,Requests by age,,2-5 years,percent,0.064631354
+Alameda,1998,Child Care Request Data,Requests by age,,6 years and older,percent,0.515611509
+Alameda,1998,Child Care Request Data,Requests for full-time care,,Under 2 years,percent,0.709993213
+Alameda,1998,Child Care Request Data,Requests for full-time care,,2 years,percent,0.539215493
+Alameda,1998,Child Care Request Data,Requests for full-time care,,3 years,percent,0.303980338
+Alameda,1998,Child Care Request Data,Requests for full-time care,,4 years,percent,0.093640177
+Alameda,1998,Child Care Request Data,Requests for full-time care,,5 years,percent,0.476402311
+Alameda,1998,Child Care Request Data,Requests for nontraditional hours,,Requests for nontraditional hours,percent,0.760288664
+Alameda,1998,People,Total number of residents,,Total number of residents,count,804
+Alameda,1998,People,Total number of residents,Number of children 0-12,Under 2 years,count,759
+Alameda,1998,People,Total number of residents,Number of children 0-12,2 years,count,897
+Alameda,1998,People,Total number of residents,Number of children 0-12,3 years,count,884
+Alameda,1998,People,Total number of residents,Number of children 0-12,4 years,count,45
+Alameda,1998,People,Total number of residents,Number of children 0-12,5 years,count,364
+Alameda,1998,People,Total number of residents,Number of children 0-12,6-10 years,count,637
+Alameda,1998,People,Total number of residents,Number of children 0-12,11-12 years,count,634
+Alameda,1998,People,Language spoken at home,,English only,percent,0.286479421
+Alameda,1998,People,Language spoken at home,,Spanish,percent,0.335145125
+Alameda,1998,People,Language spoken at home,,Asian/Pacific Island language,percent,0.163535005
+Alameda,1998,People,Language spoken at home,,Another language,percent,0.869766032
+Alameda,1998,Labor Force,Availaiblity of child care for working families,,Children for whom a licensed space is available,percent,0.09091099
+Alameda,1998,Labor Force,Availaiblity of child care for working families,,Children for whom a licensed space is not available,percent,0.11491455
+Alameda,1998,Income & Poverty,Number of people living in poverty,,Number of people living in poverty,count,939
+Alameda,1998,Income & Poverty,Children 0-5 living in poverty,,Children 0-5 living in poverty,count,207
+Alameda,1998,Income & Poverty,Percent families living in poverty,,Percent families living in poverty,percent,0.96587242
+Alameda,1998,Income & Poverty,Children in subsidized care,,Under 2 years,count,848
+Alameda,1998,Income & Poverty,Children in subsidized care,,2-5 years,count,575
+Alameda,1998,Income & Poverty,Children in subsidized care,,6 years and older,count,714
+Alameda,1998,Income & Poverty,Children in subsidized care,,Alternative Payment,count,987
+Alameda,1998,Income & Poverty,Children in subsidized care,,California State Preschool,count,933
+Alameda,1998,Income & Poverty,Children in subsidized care,,CalWORKs Stage 1,count,873
+Alameda,1998,Income & Poverty,Children in subsidized care,,CalWORKs Stage 2,count,327
+Alameda,1998,Income & Poverty,Children in subsidized care,,CalWORKs Stage 3,count,122
+Alameda,1998,Income & Poverty,Children in subsidized care,,Family child care home,count,432
+Alameda,1998,Income & Poverty,Children in subsidized care,,General Child Care,count,654
+Alameda,1998,Income & Poverty,Children in subsidized care,,General Migrant Care,count,457
+Alameda,1998,Income & Poverty,Children in subsidized care,,Severely handicapped,count,178
+Alameda,1998,Income & Poverty,Median family income,,Median family income,usd,487.5376093
+Contra Costa,1996,Licensed Child Care Supply,Licensed facilities,,Total facilities,count,7.687225652
+Contra Costa,1996,Licensed Child Care Supply,Licensed facilities,,Child care centers,count,331.51779
+Contra Costa,1996,Licensed Child Care Supply,Licensed facilities,,Family child care homes,count,55.5612385
+Contra Costa,1996,Licensed Child Care Supply,Licensed spaces,,Total spaces,count,24.10454695
+Contra Costa,1996,Licensed Child Care Supply,Licensed spaces,Center spaces,Infant (0-23 months),count,77.05433026
+Contra Costa,1996,Licensed Child Care Supply,Licensed spaces,Center spaces,Preschool (2-5 years),count,136.1365141
+Contra Costa,1996,Licensed Child Care Supply,Licensed spaces,Center spaces,Schoolage (6+ years),count,152.677253
+Contra Costa,1996,Licensed Child Care Supply,Licensed spaces,,Family child care home spaces,count,119.5981318
+Contra Costa,1996,Licensed Child Care Supply,Child Care Food Program,Percent of child care programs participating in the Child Care Food Program,Total facilities,percent,0.450088221
+Contra Costa,1996,Licensed Child Care Supply,Child Care Food Program,Percent of child care programs participating in the Child Care Food Program,Centers,percent,0.226939103
+Contra Costa,1996,Licensed Child Care Supply,Child Care Food Program,Percent of child care programs participating in the Child Care Food Program,Family child care homes,percent,0.444683745
+Contra Costa,1996,Licensed Child Care Supply,Public contracts,,Child care centers with one or more federal/state/local contracts,percent,0.024639834
+Contra Costa,1996,Licensed Child Care Supply,Schedule,Percent offering full-time and part-time spaces,Centers,percent,0.437758414
+Contra Costa,1996,Licensed Child Care Supply,Schedule,Percent offering full-time and part-time spaces,Family child care homes,percent,0.013350294
+Contra Costa,1996,Licensed Child Care Supply,Schedule,Percent offering only full-time spaces,Centers,percent,0.038024367
+Contra Costa,1996,Licensed Child Care Supply,Schedule,Percent offering only full-time spaces,Family child care homes,percent,0.387312783
+Contra Costa,1996,Licensed Child Care Supply,Schedule,Percent offering only part-time spaces,Centers,percent,0.347460483
+Contra Costa,1996,Licensed Child Care Supply,Schedule,Percent offering only part-time spaces,Family child care homes,percent,0.049827703
+Contra Costa,1996,Licensed Child Care Supply,Schedule,"Percent offering evening, weekend, or overnight care",Centers,percent,0.755957909
+Contra Costa,1996,Licensed Child Care Supply,Schedule,"Percent offering evening, weekend, or overnight care",Family child care homes,percent,0.094345428
+Contra Costa,1996,Cost of Care,Annual full-time cost of care,Infant care (0-23 months),Center,usd,17.93794385
+Contra Costa,1996,Cost of Care,Annual full-time cost of care,Infant care (0-23 months),Family child care home,usd,5.385487694
+Contra Costa,1996,Cost of Care,Annual full-time cost of care,Preschool care (2-5 years),Center,usd,108.9713527
+Contra Costa,1996,Cost of Care,Annual full-time cost of care,Preschool care (2-5 years),Family child care home,usd,408.2574666
+Contra Costa,1996,Child Care Request Data,Requests by age,,Under 2 years,percent,0.00703619
+Contra Costa,1996,Child Care Request Data,Requests by age,,2-5 years,percent,0.131026748
+Contra Costa,1996,Child Care Request Data,Requests by age,,6 years and older,percent,0.066391627
+Contra Costa,1996,Child Care Request Data,Requests for full-time care,,Under 2 years,percent,0.106693877
+Contra Costa,1996,Child Care Request Data,Requests for full-time care,,2 years,percent,0.009146837
+Contra Costa,1996,Child Care Request Data,Requests for full-time care,,3 years,percent,0.484559593
+Contra Costa,1996,Child Care Request Data,Requests for full-time care,,4 years,percent,0.071757188
+Contra Costa,1996,Child Care Request Data,Requests for full-time care,,5 years,percent,0.202648965
+Contra Costa,1996,Child Care Request Data,Requests for nontraditional hours,,Requests for nontraditional hours,percent,0.737612563
+Contra Costa,1996,People,Total number of residents,,Total number of residents,count,99.48126855
+Contra Costa,1996,People,Total number of residents,Number of children 0-12,Under 2 years,count,49.6999146
+Contra Costa,1996,People,Total number of residents,Number of children 0-12,2 years,count,113.4057481
+Contra Costa,1996,People,Total number of residents,Number of children 0-12,3 years,count,160.7881683
+Contra Costa,1996,People,Total number of residents,Number of children 0-12,4 years,count,123.0700469
+Contra Costa,1996,People,Total number of residents,Number of children 0-12,5 years,count,232.3594912
+Contra Costa,1996,People,Total number of residents,Number of children 0-12,6-10 years,count,739.9554644
+Contra Costa,1996,People,Total number of residents,Number of children 0-12,11-12 years,count,31.28698277
+Contra Costa,1996,People,Language spoken at home,,English only,percent,0.12215811
+Contra Costa,1996,People,Language spoken at home,,Spanish,percent,0.391583812
+Contra Costa,1996,People,Language spoken at home,,Asian/Pacific Island language,percent,0.62592316
+Contra Costa,1996,People,Language spoken at home,,Another language,percent,0.220161765
+Contra Costa,1996,Labor Force,Availaiblity of child care for working families,,Children for whom a licensed space is available,percent,0.145519313
+Contra Costa,1996,Labor Force,Availaiblity of child care for working families,,Children for whom a licensed space is not available,percent,0.339892566
+Contra Costa,1996,Income & Poverty,Number of people living in poverty,,Number of people living in poverty,count,291.9855763
+Contra Costa,1996,Income & Poverty,Children 0-5 living in poverty,,Children 0-5 living in poverty,count,6.714187064
+Contra Costa,1996,Income & Poverty,Percent families living in poverty,,Percent families living in poverty,percent,0.762428172
+Contra Costa,1996,Income & Poverty,Children in subsidized care,,Under 2 years,count,58.2226472
+Contra Costa,1996,Income & Poverty,Children in subsidized care,,2-5 years,count,682.9161058
+Contra Costa,1996,Income & Poverty,Children in subsidized care,,6 years and older,count,432.397336
+Contra Costa,1996,Income & Poverty,Children in subsidized care,,Alternative Payment,count,120.5515103
+Contra Costa,1996,Income & Poverty,Children in subsidized care,,California State Preschool,count,522.9420357
+Contra Costa,1996,Income & Poverty,Children in subsidized care,,CalWORKs Stage 1,count,568.0821625
+Contra Costa,1996,Income & Poverty,Children in subsidized care,,CalWORKs Stage 2,count,113.2312327
+Contra Costa,1996,Income & Poverty,Children in subsidized care,,CalWORKs Stage 3,count,68.84853411
+Contra Costa,1996,Income & Poverty,Children in subsidized care,,Family child care home,count,91.53930246
+Contra Costa,1996,Income & Poverty,Children in subsidized care,,General Child Care,count,165.1273125
+Contra Costa,1996,Income & Poverty,Children in subsidized care,,General Migrant Care,count,112.2564142
+Contra Costa,1996,Income & Poverty,Children in subsidized care,,Severely handicapped,count,232.8990679
+Contra Costa,1996,Income & Poverty,Median family income,,Median family income,usd,173.6941604
+Contra Costa,1998,Licensed Child Care Supply,Licensed facilities,,Total facilities,count,585.2033011
+Contra Costa,1998,Licensed Child Care Supply,Licensed facilities,,Child care centers,count,201.2493226
+Contra Costa,1998,Licensed Child Care Supply,Licensed facilities,,Family child care homes,count,273.9331457
+Contra Costa,1998,Licensed Child Care Supply,Licensed spaces,,Total spaces,count,0.515796919
+Contra Costa,1998,Licensed Child Care Supply,Licensed spaces,Center spaces,Infant (0-23 months),count,239.7203043
+Contra Costa,1998,Licensed Child Care Supply,Licensed spaces,Center spaces,Preschool (2-5 years),count,611.8270999
+Contra Costa,1998,Licensed Child Care Supply,Licensed spaces,Center spaces,Schoolage (6+ years),count,111.1359934
+Contra Costa,1998,Licensed Child Care Supply,Licensed spaces,,Family child care home spaces,count,234.3364758
+Contra Costa,1998,Licensed Child Care Supply,Child Care Food Program,Percent of child care programs participating in the Child Care Food Program,Total facilities,percent,0.021007016
+Contra Costa,1998,Licensed Child Care Supply,Child Care Food Program,Percent of child care programs participating in the Child Care Food Program,Centers,percent,0.914584313
+Contra Costa,1998,Licensed Child Care Supply,Child Care Food Program,Percent of child care programs participating in the Child Care Food Program,Family child care homes,percent,0.073082009
+Contra Costa,1998,Licensed Child Care Supply,Public contracts,,Child care centers with one or more federal/state/local contracts,percent,0.242187404
+Contra Costa,1998,Licensed Child Care Supply,Schedule,Percent offering full-time and part-time spaces,Centers,percent,0.061396429
+Contra Costa,1998,Licensed Child Care Supply,Schedule,Percent offering full-time and part-time spaces,Family child care homes,percent,0.191723301
+Contra Costa,1998,Licensed Child Care Supply,Schedule,Percent offering only full-time spaces,Centers,percent,0.051265214
+Contra Costa,1998,Licensed Child Care Supply,Schedule,Percent offering only full-time spaces,Family child care homes,percent,0.22551976
+Contra Costa,1998,Licensed Child Care Supply,Schedule,Percent offering only part-time spaces,Centers,percent,0.368607017
+Contra Costa,1998,Licensed Child Care Supply,Schedule,Percent offering only part-time spaces,Family child care homes,percent,0.188887669
+Contra Costa,1998,Licensed Child Care Supply,Schedule,"Percent offering evening, weekend, or overnight care",Centers,percent,0.429351489
+Contra Costa,1998,Licensed Child Care Supply,Schedule,"Percent offering evening, weekend, or overnight care",Family child care homes,percent,0.144983729
+Contra Costa,1998,Cost of Care,Annual full-time cost of care,Infant care (0-23 months),Center,usd,454.9976889
+Contra Costa,1998,Cost of Care,Annual full-time cost of care,Infant care (0-23 months),Family child care home,usd,185.9670998
+Contra Costa,1998,Cost of Care,Annual full-time cost of care,Preschool care (2-5 years),Center,usd,100.0876909
+Contra Costa,1998,Cost of Care,Annual full-time cost of care,Preschool care (2-5 years),Family child care home,usd,715.8097487
+Contra Costa,1998,Child Care Request Data,Requests by age,,Under 2 years,percent,0.043189824
+Contra Costa,1998,Child Care Request Data,Requests by age,,2-5 years,percent,0.034629976
+Contra Costa,1998,Child Care Request Data,Requests by age,,6 years and older,percent,0.45790184
+Contra Costa,1998,Child Care Request Data,Requests for full-time care,,Under 2 years,percent,0.408569713
+Contra Costa,1998,Child Care Request Data,Requests for full-time care,,2 years,percent,0.070200109
+Contra Costa,1998,Child Care Request Data,Requests for full-time care,,3 years,percent,0.274774867
+Contra Costa,1998,Child Care Request Data,Requests for full-time care,,4 years,percent,0.051090952
+Contra Costa,1998,Child Care Request Data,Requests for full-time care,,5 years,percent,0.168719897
+Contra Costa,1998,Child Care Request Data,Requests for nontraditional hours,,Requests for nontraditional hours,percent,0.083583137
+Contra Costa,1998,People,Total number of residents,,Total number of residents,count,606.2213174
+Contra Costa,1998,People,Total number of residents,Number of children 0-12,Under 2 years,count,741.6191952
+Contra Costa,1998,People,Total number of residents,Number of children 0-12,2 years,count,443.2353009
+Contra Costa,1998,People,Total number of residents,Number of children 0-12,3 years,count,618.8884
+Contra Costa,1998,People,Total number of residents,Number of children 0-12,4 years,count,14.67496836
+Contra Costa,1998,People,Total number of residents,Number of children 0-12,5 years,count,329.0618279
+Contra Costa,1998,People,Total number of residents,Number of children 0-12,6-10 years,count,454.8281288
+Contra Costa,1998,People,Total number of residents,Number of children 0-12,11-12 years,count,177.2682172
+Contra Costa,1998,People,Language spoken at home,,English only,percent,0.179637227
+Contra Costa,1998,People,Language spoken at home,,Spanish,percent,0.293892721
+Contra Costa,1998,People,Language spoken at home,,Asian/Pacific Island language,percent,0.114221004
+Contra Costa,1998,People,Language spoken at home,,Another language,percent,0.614501249
+Contra Costa,1998,Labor Force,Availaiblity of child care for working families,,Children for whom a licensed space is available,percent,0.040928509
+Contra Costa,1998,Labor Force,Availaiblity of child care for working families,,Children for whom a licensed space is not available,percent,0.03543783
+Contra Costa,1998,Income & Poverty,Number of people living in poverty,,Number of people living in poverty,count,343.093812
+Contra Costa,1998,Income & Poverty,Children 0-5 living in poverty,,Children 0-5 living in poverty,count,68.8214176
+Contra Costa,1998,Income & Poverty,Percent families living in poverty,,Percent families living in poverty,percent,0.641952045
+Contra Costa,1998,Income & Poverty,Children in subsidized care,,Under 2 years,count,9.367892152
+Contra Costa,1998,Income & Poverty,Children in subsidized care,,2-5 years,count,279.5315613
+Contra Costa,1998,Income & Poverty,Children in subsidized care,,6 years and older,count,107.7146215
+Contra Costa,1998,Income & Poverty,Children in subsidized care,,Alternative Payment,count,100.1435135
+Contra Costa,1998,Income & Poverty,Children in subsidized care,,California State Preschool,count,295.9104657
+Contra Costa,1998,Income & Poverty,Children in subsidized care,,CalWORKs Stage 1,count,42.94583662
+Contra Costa,1998,Income & Poverty,Children in subsidized care,,CalWORKs Stage 2,count,19.51595373
+Contra Costa,1998,Income & Poverty,Children in subsidized care,,CalWORKs Stage 3,count,88.67741102
+Contra Costa,1998,Income & Poverty,Children in subsidized care,,Family child care home,count,358.169269
+Contra Costa,1998,Income & Poverty,Children in subsidized care,,General Child Care,count,379.5810702
+Contra Costa,1998,Income & Poverty,Children in subsidized care,,General Migrant Care,count,392.5031908
+Contra Costa,1998,Income & Poverty,Children in subsidized care,,Severely handicapped,count,34.63253471
+Contra Costa,1998,Income & Poverty,Median family income,,Median family income,usd,39.39913234
